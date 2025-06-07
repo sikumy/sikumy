@@ -15,7 +15,7 @@ A side project where I write offensive security content, mostly in Spanish (for 
 
 <p align="center">
   <a href="https://deephacking.tech" target="_blank">
-    <img src="./deephacking_banner.png" alt="Deep Hacking" style="max-width: 100%; height: auto;" />
+    <img src="./deephacking_logo.png" alt="Deep Hacking" width="200px" />
   </a>
 </p>
 
