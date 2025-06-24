@@ -2,16 +2,22 @@
 
 I'm focused on **offensive security**, with a particular interest in **red teaming**.  
 
-## 🧑‍💻 About me
-
+<details>
+  <summary>👾 About me</summary>
+  
+<p></p>
+  
 - I work in offensive security, doing things like red teaming, adversary simulation, and pentesting.
 - I write a **cybersecurity blog in Spanish**, where I try to share what I’m learning along the way.
 - I like to learn, a lot. I consider it one of my hobbies.
-- Outside of tech, I enjoy **skiing** 🎿, **traveling** 🛩, and pretty much any **sport or outdoor activity** 🏐. 
-  
-## 🚀 Projects
+- Outside of tech, I enjoy **skiing** 🎿, **traveling** 🛩, and pretty much any **sport or outdoor activity** 🏐.
 
-A side project where I write offensive security content, mostly in Spanish (for now 😉).
+</details>
+
+<details>
+  <summary>✏ Blog</summary>
+
+<p></p>
 
 <p align="center">
   <a href="https://deephacking.tech" target="_blank">
@@ -19,22 +25,26 @@ A side project where I write offensive security content, mostly in Spanish (for 
   </a>
 </p>
 
-🔗  Visit the blog here → [deephacking.tech](https://deephacking.tech)
+A blog where I share offensive security content, mostly in Spanish (for now 🤔). You can visit it here → [deephacking.tech](https://deephacking.tech)
 
-## 📬 Contact
+</details>
 
-Feel free to reach out or connect with me:
+<details>
+  <summary>📬 Contact</summary>
 
-- 📧 Email: [sikumy@deephacking.tech](mailto:sikumy@deephacking.tech)
-- 🐦 Twitter: [@sikumy](https://x.com/sikumy)
-- 💼 LinkedIn: [juanantonio-gonzalez](https://www.linkedin.com/in/juanantonio-gonzalez/)
-- 💬 Join the community: [Deep Hacking Discord](https://discord.gg/TVcDmHduAm)
+<p></p>
 
-## 📈 My Github stats
+- 📧 Email: [sikumy@deephacking.tech](mailto:sikumy@deephacking.tech)  
+- 🐦 Twitter: [@sikumy](https://x.com/sikumy)  
+- 💼 LinkedIn: [juanantonio-gonzalez](https://www.linkedin.com/in/juanantonio-gonzalez/)  
+- 💬 Discord: [Deep Hacking Discord](https://discord.gg/TVcDmHduAm)
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sikumy&theme=synthwave&show_icons=true&hide_border=false&count_private=true" alt="sikumy" />
+</details>
 
-## 🤓 Certifications & Trainings
+<details>
+  <summary>🤓 Certifications & Trainings</summary>
+
+<p></p>
 
 <p align="center">
   <a href="https://www.credential.net/db1b112a-8757-4249-81cd-16043342b050" target="_blank"><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/112584819" class="cert" alt='OSEP' width="100px"></a>
@@ -49,3 +59,5 @@ Feel free to reach out or connect with me:
   <a href="https://www.credential.net/c476ebc0-bd7c-4e57-979e-8c18f96d4993" target="_blank"><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/79661189" class="cert" alt='eJPT' width="100px"></a>
   <a href="https://www.credential.net/18c641df-f63e-4b87-a445-f308e202095c" target="_blank"><img src="./cwp.png" class="cert" alt='CWP' width="100px"></a>
 </p>
+
+</details>
